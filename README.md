@@ -40,7 +40,7 @@
 Clone the source locally:
 
 ```sh
-$ git clone https://....git
+$ git clone https://github.com/williamthethird/tesla-react-frontend.git
 $ cd Capstone.....
 ```
 
@@ -55,7 +55,7 @@ $
 Start the app:
 
 ```sh
-$ 
+$ npm start
 ```
 
 Idea inspired from:</br>
