@@ -41,7 +41,6 @@ Clone the source locally:
 
 ```sh
 $ git clone https://github.com/williamthethird/tesla-react-frontend.git
-$ cd Capstone.....
 ```
 
 Install project dependencies:
