@@ -41,16 +41,9 @@ Clone the source locally:
 
 ```sh
 $ git clone https://github.com/williamthethird/tesla-react-frontend.git
+$ npm install
 ```
 
-Install project dependencies:
-
-```sh
-$ 
-$ 
-$ 
-$ 
-```
 Start the app:
 
 ```sh
